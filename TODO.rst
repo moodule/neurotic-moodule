@@ -25,3 +25,6 @@ Interview
 - caracter
 - preferences
 - portrait chinois (it's a habit of the show, what ...?)
+- faire des (auto)portraits de modèles
+- générer des IRM de modèles
+- créer des bannières / logosà l'aide de modèles
