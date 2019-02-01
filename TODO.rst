@@ -1,15 +1,3 @@
-Naming
-------
-
-talking to the super stars (models) of AI !
-apehex interviews / introspection / psychoanalise:
-chatty = parler aux ai ! découvrir leurs opinions, connaissances, envies, erreurs, etc
-introvert = inspecter le fond des modèles
-curieux = ce qui se cache dans les modèles = ouvrir, démanteler
-objet =
-animal =
-acronyme =
-
 Debugging
 ---------
 
@@ -22,9 +10,27 @@ Debugging
 Interview
 ---------
 
-- caracter
+- character
 - preferences
 - portrait chinois (it's a habit of the show, what ...?)
 - faire des (auto)portraits de modèles
+- opinion about the news
+- dreams & ambitions
+- experiences & stories
+- emotions: doubt, fear, wants, self-consciousness
+- uncanny-valley: humans that look like machines! (zuckerberg, etc) :D
+
+Twist
+-----
+
 - générer des IRM de modèles
-- créer des bannières / logosà l'aide de modèles
+- créer des bannières / logos à l'aide de modèles
+
+Body & composition
+------------------
+
+What's the container, skin of a robot?
+What does it eat? Does it sleep?
+Race, culture? What their skin color? Breed?
+Are their characters, similitudes between models working on different tasks? (Gram matrix)
+Do they get old?
