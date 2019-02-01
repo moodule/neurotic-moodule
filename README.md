@@ -9,12 +9,11 @@
 
 > Exclusive interviews with the super models of AI!! :robot:
 
-What do the machines think of us?? Are they for human dockers and charters?
-
+What do the machines think of us?? Are they for human dockers and charters? What world are we leaving the machines with?!
+Following the news, we'll have one hot guest per week.
 
 * Free software: MIT
 * Documentation: https://neurotic-apehex.readthedocs.io.
-
 
 ## Table of Contents
 
