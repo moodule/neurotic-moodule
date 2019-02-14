@@ -1,12 +1,5 @@
 # Neurotic Moodule
 
-[![Tagged Release][release-shield]](CHANGELOG.md)
-[![Development Status][planning-status-shield]](ROADMAP.md)
-[![Build Coverage][coverage-shield]][coverage-link]
-
-[![Build Status][travis-shield]][travis-link]
-[![Build Status][appveyor-shield]][appveyor-link]
-
 > Exclusive interviews with the super models of AI!! :robot:
 
 What do the machines think of us?? Are they for human dockers and charters? What world are we leaving the machines with?!
@@ -18,6 +11,7 @@ Following the news, we'll have one hot guest per week.
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
+- [Status](#status)
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
@@ -29,7 +23,19 @@ Following the news, we'll have one hot guest per week.
 - [Credits](#credits)
 - [License](#license)
 
+## Status
+
+[![Development Status][planning-status-shield]](ROADMAP.md)
+
+[![Tagged Release][release-shield]](CHANGELOG.md)
+[![Build Coverage][coverage-shield]][coverage-link]
+
+[![Build Status][travis-shield]][travis-link]
+[![Build Status][appveyor-shield]][appveyor-link]
+
 ## Features
+
+For now, the project is being sketched.
 
 ## Requirements
 
