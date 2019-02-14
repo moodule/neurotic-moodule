@@ -1,6 +1,10 @@
 # Plan
 
-> Yearly objective
+> Get the AIs' opinions on my projects!
+
+There's a huge waste of computational resources: models are designed and trained and then forgotten.
+
+This projects aims at giving new purpose to "old" models and use them for my personal projects.
 
 ## Table of Contents
 
@@ -19,10 +23,9 @@
 
 ## Organization
 
-### TODO
+### Next
 
 ### Commitment
-
 
 ## Community
 
