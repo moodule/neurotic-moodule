@@ -1,0 +1,60 @@
+===============================================================================
+			ANTHROPOMORPHISM
+===============================================================================
+
+IDENTITY
+	- The agent might have a name and a history to create the illusion of a
+	living creatures.
+	- this helps build the idea of a persistent being with a consistent behaviour
+	and character 
+
+BODY / VOICE / ETC
+	The agent often has a body, with custom skin design, to make it seem
+	human. Duplicate column doesn't yet speak to us !
+
+OBJECTIVE
+	the agent might have an objective like "taking you down", while a
+	usual function just waits for orders
+
+ANIMATION
+	to make it more real, the agent is animated and makes unecessary moves
+	but similar to the "real world" version of the "game ai"
+
+HUMAN SIMULATION
+	the agent can be orders of magnitude faster than a human to act. So to
+	balance it, the developpers may limit its actions : add delays, make it
+	imprecize, etc
+
+===============================================================================
+			INTERACTIONS
+===============================================================================
+
+AUTONOMOUS
+	The agent can act on its own, without any intervention from the user.
+	Rather, it automatically adapts to the human's actions / state.
+
+COMMUNICATION
+	the user/player often interacts with the game agent the same way it would
+	with a human player.
+
+OPPOSITION
+	it can refuse to act like you want it to ! chrome has never said "ok now,
+	enough hanging around !" and closing my tabs ^^
+
+===============================================================================
+			DECISION TAKING
+===============================================================================
+
+CONVOLUTED
+	most of the time, we expect the "game ai" to be unpredictable, particularly
+	when its an opponent. might tend on the reliable side when it's ally
+
+FAR REACHING
+	the agent doesn't just take elementary actions one after another, it may
+	follow a plan to achieve some goal ; it should be more evolved than a
+	glouton !
+
+KNOWLEDGE
+	like a human, the agent often has a limited knowledge of the world : it
+	must take action to get information. While the game engine could give it
+	the entirety of the game state
