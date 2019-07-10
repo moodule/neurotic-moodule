@@ -1,0 +1,104 @@
+Racing Driver
+
+=============
+
+
+
+* Input Information
+
+
+
+	- obstacles' positions
+
+	- road shape (mb separated into : front / side / rear views ?)
+
+	- acceleration / speed
+
+	- wheels' angle
+
+	- car state : fuel level, any damage / warnings
+
+	- number of laps
+
+	- position relative to the otherracers
+
+	- current gear
+
+* Output Generated
+
+
+
+	- steering angle
+
+	- acceleration / braking strength 
+
+	- engage a new gear
+
+	- honk ?
+
+
+
+----
+
+
+
+Card Game Opponent
+
+==================
+
+
+
+* Input Information
+
+
+
+	- board state
+
+	- round / time
+
+	- current score
+
+	- opponent's play
+
+	- available cards / actions
+
+
+
+* Output Generated
+
+
+
+	- (card(s) to) play : where / how / what
+
+	- teasing :D
+
+
+
+----
+
+
+
+Squad Leader
+
+============
+
+
+
+* Input Information
+
+
+
+	- troups' morale : too lazy for this one !
+
+	-
+
+
+
+* Output Generated
+
+
+
+	- ...
+
+	-
+

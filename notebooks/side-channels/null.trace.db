@@ -1,0 +1,6 @@
+01-05 23:41:33 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table INDIVIDUAL not found; SQL statement:
+SELECT name, id FROM individual [42102-118]
+01-05 23:41:33 jdbc[2]: SQLException
+org.h2.jdbc.JdbcSQLException: Table SONGDATA not found; SQL statement:
+SELECT name, id, IndividualID FROM songdata [42102-118]
